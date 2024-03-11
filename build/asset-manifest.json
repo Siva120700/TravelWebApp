@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Siva120700/Tarvel/static/css/main.edf8e9fd.css",
+    "main.js": "/Siva120700/Tarvel/static/js/main.aa792b19.js",
+    "static/media/video1.mp4": "/Siva120700/Tarvel/static/media/video1.e9815e773d2b59dd2f41.mp4",
+    "static/media/video2.mp4": "/Siva120700/Tarvel/static/media/video2.10453256d299c56e9ace.mp4",
+    "static/media/img3.jpg": "/Siva120700/Tarvel/static/media/img3.79dba608797ede945627.jpg",
+    "static/media/img2.jpg": "/Siva120700/Tarvel/static/media/img2.cf6f21de56dbf7e6b4d2.jpg",
+    "static/media/img.jpg": "/Siva120700/Tarvel/static/media/img.a60dbfb34a74e4d7d58e.jpg",
+    "static/media/img5.jpg": "/Siva120700/Tarvel/static/media/img5.e46c9f050b38ddb399b8.jpg",
+    "static/media/img4.jpg": "/Siva120700/Tarvel/static/media/img4.e908d14dc9af856bf832.jpg",
+    "index.html": "/Siva120700/Tarvel/index.html",
+    "main.edf8e9fd.css.map": "/Siva120700/Tarvel/static/css/main.edf8e9fd.css.map",
+    "main.aa792b19.js.map": "/Siva120700/Tarvel/static/js/main.aa792b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf8e9fd.css",
+    "static/js/main.aa792b19.js"
+  ]
+}
